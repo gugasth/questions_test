@@ -1,8 +1,8 @@
-# questions_test
+## Questões Target:
 
-## Questões estão em:
+As duas primeiras pediam código e estão em `/src`, as três últimas eram de raciocínio lógico e estão em `/teoricas`, estas estão solucionadas em markdown.
 
-Clique pra chegar nelas. Mas as duas primeiras pediam código e estão em `/src`, as três últimas eram de raciocínio lógico e estão em `/teoricas`.
+Clique em cada uma delas para localiza-las.
 
 [Questão 1](src/questao1.py)
 
@@ -13,3 +13,5 @@ Clique pra chegar nelas. Mas as duas primeiras pediam código e estão em `/src`
 [Questão 4](teoricas/questao4.md)
 
 [Questão 5](teoricas/questao5.md)
+
+Realizei testes unitários para as questões que pediam código, os testes estão localizados em [tests/](tests/). Também incluí workflow pra realizar os testes.
