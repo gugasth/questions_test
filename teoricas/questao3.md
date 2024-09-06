@@ -11,7 +11,10 @@ print(SOMA);
 ```
 
 Inicia com K=1 e Soma=0.
+
 Na primeira iteração K vira 2 e soma vira 2.
+
 Na segunda iteração K vira 3 e soma vira 5.
 ...
-Até K virar 12, onde vai encerrar a iteração e SOMA vai estar com o valor 11+10+9+8+7+6+5+4+3+2=1 = 
+
+Até K virar 12, onde vai encerrar a iteração e SOMA vai estar com o valor 2+3+4+5+6+7+8+9+10+11+12 = 77.
